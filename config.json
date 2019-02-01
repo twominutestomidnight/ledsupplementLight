@@ -1,0 +1,4 @@
+{
+	"read_data" : "data.csv",
+    "log_file" : "log.txt"
+}
